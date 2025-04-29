@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="robots" content="noindex, nofollow">
+  <title>도메인 안내</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f5f5f5;
+      text-align: center;
+      padding-top: 10%;
+      color: #333;
+    }
+    .container {
+      background: white;
+      display: inline-block;
+      padding: 40px;
+      border-radius: 12px;
+      box-shadow: 0 0 12px rgba(0, 0, 0, 0.1);
+    }
+    p.notice {
+      font-size: 0.9em;
+      color: gray;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>도메인 안내</h1>
+    <p>이 도메인은 개인이 보유한 것으로, 특정 기업 또는 브랜드(SK텔레콤 등)와는 아무런 관련이 없습니다.</p>
+    <p>This domain is privately owned and not affiliated with any corporation or trademark, including SK Telecom.</p>
+    <p class="notice">* 상업적 용도 없이 등록되어 있으며, 서비스 준비 중이거나 개인 프로젝트용입니다.</p>
+  </div>
+</body>
+</html>
